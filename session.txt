@@ -1,0 +1,12 @@
+session -> start  username,email,phone
+	retrieve 
+	destroy
+
+in destroy write unset , comment unregister and destroy
+
+
+Login Logout
+p.124
+
+
+registration

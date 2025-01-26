@@ -1,0 +1,11 @@
+button{
+    background-color:blue;
+    padding:5px;
+    border-radius:5px;
+}
+
+button a{
+    text-decoration: none;
+    color:white;
+    font-weight:bold;
+}
